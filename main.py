@@ -81,4 +81,4 @@ async def invites(ctx, member:discord.Member=None):
                 embed.set_footer("Bot Developer: Developer X#0001 by PGamerX Development")
                 await ctx.send(embed=embed)
 
-bot.run("OTM3NDAwMDMyMTQ2MTI4OTI2.YfbLzw.wpu4ysWyOwoRWMHqzUYw3mikhE0")
+bot.run("TOKEN HERE")
